@@ -2,7 +2,7 @@
 
 ### 1、calculate natural log e, with last item precision < 1e-4
 
-![img](http://www.sciweavers.org/tex2img.php?eq=e%3D1%2B%5Cfrac%7B1%7D%7B1%21%7D%2B%5Cfrac%7B1%7D%7B2%21%7D%2B...%2B%5Cfrac%7B1%7D%7Bn%21%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![img](http://latex.codecogs.com/gif.latex?e=1+\\frac{1}{1!}+\\frac{1}{2!}+...+\\frac{1}{n!})
 
 * [Bash]('./Bash/1.js')
 * [C]('./C/1.js')
