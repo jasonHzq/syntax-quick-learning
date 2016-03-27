@@ -1,5 +1,7 @@
 # syntax-quick-learning [WIP]
 
+For we programmer, the fatest way to learn a new language is reading code. Learning syntax of a new language and also don't forget to write code you are good at here!
+
 ### 1、calculate natural log e, with last item precision < 1e-4
 
 ![img](http://latex.codecogs.com/gif.latex?e=1+\\frac{1}{1!}+\\frac{1}{2!}+...+\\frac{1}{n!})
