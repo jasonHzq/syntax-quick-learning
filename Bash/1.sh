@@ -1,3 +1,5 @@
+#!/bin/sh
+
 function getNaturalLog() {
   index=1
   item=1
