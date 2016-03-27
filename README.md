@@ -8,7 +8,7 @@ For we programmer, the fatest way to learn a new language is reading code. Learn
 
 * [Bash](Bash/1.sh)
 * [C](C/1.c) [WIP]
-* [C#](C#/1.) [WIP]
+* [C#](C#/1.cs)
 * [C++](C++/1.cpp) [WIP]
 * [ECMAScript](ECMAScript/1.js)
 * [Java](Java/1.java) [WIP]
