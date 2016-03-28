@@ -13,7 +13,7 @@ For we programmer, the fatest way to learn a new language is reading code. Learn
 * [ECMAScript](ECMAScript/1.js)
 * [Java](Java/1.java)
 * [Lua](Lua/1.lua) [WIP]
-* [PHP](PHP/1.php) [WIP]
+* [PHP](PHP/1.php)
 * [Python](Python/1.py) [WIP]
 * [Ruby](Ruby/1.rb) [WIP]
 * [Swift](Swift/1.swift)
