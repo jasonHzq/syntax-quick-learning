@@ -14,7 +14,7 @@ For we programmer, the fatest way to learn a new language is reading code. Learn
 * [Java](Java/1.java)
 * [Lua](Lua/1.lua) [WIP]
 * [PHP](PHP/1.php)
-* [Python](Python/1.py) [WIP]
+* [Python](Python/1.py)
 * [Ruby](Ruby/1.rb) [WIP]
 * [Swift](Swift/1.swift)
 * [VB](VB/1.bas) [WIP]

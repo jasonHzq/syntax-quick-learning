@@ -10,7 +10,7 @@ class NaturalLog {
   }
 
   /**
-   * 获取
+   * get
    * @param $precision
    * @return int
    */
